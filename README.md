@@ -1,6 +1,6 @@
 # npm-package-template
 
-Asynchronous pause
+npm-package-template
 
 ![GitHub CI](https://img.shields.io/github/workflow/status/vlad-yakovlev/npm-package-template/CI/main?label=github-ci)
 [![Codecov](https://img.shields.io/codecov/c/github/vlad-yakovlev/npm-package-template/main)](https://codecov.io/gh/vlad-yakovlev/npm-package-template)
